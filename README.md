@@ -4,6 +4,9 @@ Open world 3rd person view game created in the Unity Engine
 
 Game Description
 
+- Fun 3D open world game with a 3rd person control where you have 2 main tasks to accomplish -
+  fight the pirates and find a treasure, all that is accompanied by audio and neat graphics 
+
 
 Controls
 
